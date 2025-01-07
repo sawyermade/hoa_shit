@@ -1,0 +1,19 @@
+{
+    "INCOME" : {
+        "Assessment Revenue" : {
+            "budget" : 432857.83,
+            "actual" : 324741.24,
+            "projected" : 432988.32,
+            "future" : 514734.76,
+            "notes" : "None"
+        },
+
+        "Total Income" : {
+            "budget" : 432857.83,
+            "actual" : 324741.24,
+            "projected" : 432988.32,
+            "future" : 514734.76,
+            "notes" : "None"
+        }
+    }
+}
