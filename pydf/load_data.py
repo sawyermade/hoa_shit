@@ -11,10 +11,10 @@ def main(ind='../data/', outd='../data/output/', inf='expenses_2024.json'):
         os.makedirs(output_dir)
 
     # Load data from json
-    dsf = load_data_json(input_dir, output_dir, input_fpath)
+    dfs = load_data_json(input_dir, output_dir, input_fpath)
 
     # Save data
-    save_dataframes(dsf, output_dir)
+    save_dataframes(dfs, output_dir)
 
 # Load data from json
 def load_data_json(input_dir, output_dir, input_fpath):
