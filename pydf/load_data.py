@@ -1,6 +1,7 @@
 import pandas as pd, numpy as np, os, sys, json
 from sqlalchemy import create_engine
 
+# If ran directly, loads all data from json and saves to csv, html, and sql
 def main(ind='../data/', outd='../data/output/', inf='expenses_2024.json'):
     # Setup paths
     input_dir = ind
@@ -15,6 +16,7 @@ def main(ind='../data/', outd='../data/output/', inf='expenses_2024.json'):
     # Save data
     save_dataframes(dsf, output_dir)
 
+# Load data from json
 def load_data_json(input_dir, output_dir, input_fpath):
     # Load all data
     data = {}
@@ -35,6 +37,7 @@ def load_data_json(input_dir, output_dir, input_fpath):
 
     return dfs
 
+# Save dataframes to csv, html, and/or sql
 def save_dataframes(dfs, output_dir, csv=True, html=True, sql=True):
     # Save dataframes to csv
     if csv:
