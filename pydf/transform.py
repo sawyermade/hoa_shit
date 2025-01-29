@@ -1,5 +1,7 @@
 import os, sys, json
 
+### THIS IS FOR TRANSFORMING THE JSON IN DATA/OLD DIR ###
+
 def main():
     # Paths
     input_fpath = '../data/expenses_2024.json'
