@@ -1,0 +1,4 @@
+type,budget,actual,projected,future,notes
+Internet,600.0,646.58,862.11,870.0,Frontier 72.50/month
+Electricity,13500.0,12718.23,16957.64,16440.0,Avg costs ~ $1370/month
+Water & Sewer,2500.0,3912.84,5217.12,3600.0,Avg costs ~ $200-300/month

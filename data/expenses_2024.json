@@ -1,391 +1,392 @@
 {
-    "INCOME" : {
-        "Assessment Revenue" : {
-            "budget" : 432857.83,
-            "actual" : 324741.24,
-            "projected" : 432988.32,
-            "future" : 514734.76,
-            "notes" : "None"
+    "INCOME": [
+        {
+            "type": "Assessment Revenue",
+            "budget": 432857.83,
+            "actual": 324741.24,
+            "projected": 432988.32,
+            "future": 514734.76,
+            "notes": "None"
         },
-
-        "Total Income" : {
-            "budget" : 432857.83,
-            "actual" : 324741.24,
-            "projected" : 432988.32,
-            "future" : 514734.76,
-            "notes" : "None"
+        {
+            "type": "Total Income",
+            "budget": 432857.83,
+            "actual": 324741.24,
+            "projected": 432988.32,
+            "future": 514734.76,
+            "notes": "None"
         }
-    },
-
-    "ADMINISTRATIVE" : {
-        "Management Fees" : {
-            "budget" : 7500.00,
-            "actual" : 5625.00,
-            "projected" : 7500.00,
-            "future" : 9000.00,
-            "notes" : "New Mgmt Fee"
+    ],
+    "ADMINISTRATIVE": [
+        {
+            "type": "Management Fees",
+            "budget": 7500.0,
+            "actual": 5625.0,
+            "projected": 7500.0,
+            "future": 9000.0,
+            "notes": "New Mgmt Fee"
         },
-
-        "Application Fee" : {
-            "budget" : 0.00,
-            "actual" : 300.00,
-            "projected" : 350.00,
-            "future" : 300.00,
-            "notes" : "None"
+        {
+            "type": "Application Fee",
+            "budget": 0.0,
+            "actual": 300.0,
+            "projected": 350.0,
+            "future": 300.0,
+            "notes": "None"
         },
-
-        "Annual Financial Reporting" : {
-            "budget" : 4525.00,
-            "actual" : 5600.00,
-            "projected" : 5600.00,
-            "future" : 5600.00,
-            "notes" : "None"
+        {
+            "type": "Annual Financial Reporting",
+            "budget": 4525.0,
+            "actual": 5600.0,
+            "projected": 5600.0,
+            "future": 5600.0,
+            "notes": "None"
         },
-
-        "Legal Fees" : {
-            "budget" : 1000.00,
-            "actual" : 1214.02,
-            "projected" : 1618.69,
-            "future" : 1500.00,
-            "notes" : "None"
+        {
+            "type": "Legal Fees",
+            "budget": 1000.0,
+            "actual": 1214.02,
+            "projected": 1618.69,
+            "future": 1500.0,
+            "notes": "None"
         },
-
-        "Bank Charges"  : {
-            "budget" : 50.00,
-            "actual" : 4.17,
-            "projected" : 5.56,
-            "future" : 50.00,
-            "notes" : "None"
+        {
+            "type": "Bank Charges",
+            "budget": 50.0,
+            "actual": 4.17,
+            "projected": 5.56,
+            "future": 50.0,
+            "notes": "None"
         },
-
-        "Postage"  : {
-            "budget" : 200.00,
-            "actual" : 178.30,
-            "projected" : 237.73,
-            "future" : 200.00,
-            "notes" : "None"
+        {
+            "type": "Postage",
+            "budget": 200.0,
+            "actual": 178.3,
+            "projected": 237.73,
+            "future": 200.0,
+            "notes": "None"
         },
-
-        "Insurance"  : {
-            "budget" : 142715.00,
-            "actual" : 106950.06,
-            "projected" : 142600.08,
-            "future" : 197864.40,
-            "notes" : "Expected 15% increase"
+        {
+            "type": "Insurance",
+            "budget": 142715.0,
+            "actual": 106950.06,
+            "projected": 142600.08,
+            "future": 197864.4,
+            "notes": "Expected 15% increase"
         },
-
-        "Corporate Filing"  : {
-            "budget" : 275.00,
-            "actual" : 61.25,
-            "projected" : 81.76,
-            "future" : 275.00,
-            "notes" : "Corp fee and state fees"
+        {
+            "type": "Corporate Filing",
+            "budget": 275.0,
+            "actual": 61.25,
+            "projected": 81.76,
+            "future": 275.0,
+            "notes": "Corp fee and state fees"
         },
-
-        "Office Supplies"  : {
-            "budget" : 500.00,
-            "actual" : 223.92,
-            "projected" : 298.56,
-            "future" : 500.00,
-            "notes" : "None"
+        {
+            "type": "Office Supplies",
+            "budget": 500.0,
+            "actual": 223.92,
+            "projected": 298.56,
+            "future": 500.0,
+            "notes": "None"
         },
-
-        "Website"  : {
-            "budget" : 1200.00,
-            "actual" : 999.00,
-            "projected" : 1332.00,
-            "future" : 1200.00,
-            "notes" : "None"
+        {
+            "type": "Website",
+            "budget": 1200.0,
+            "actual": 999.0,
+            "projected": 1332.0,
+            "future": 1200.0,
+            "notes": "None"
         },
-
-        "Printing & Reproduction"  : {
-            "budget" : 2000.00,
-            "actual" : 1172.29,
-            "projected" : 1563.32,
-            "future" : 2000.00,
-            "notes" : "None"
+        {
+            "type": "Printing & Reproduction",
+            "budget": 2000.0,
+            "actual": 1172.29,
+            "projected": 1563.32,
+            "future": 2000.0,
+            "notes": "None"
         },
-
-        "Professional/Inspction Fees"  : {
-            "budget" : 145.00,
-            "actual" : 275.00,
-            "projected" : 275.00,
-            "future" : 275.00,
-            "notes" : "None"
+        {
+            "type": "Professional/Inspction Fees",
+            "budget": 145.0,
+            "actual": 275.0,
+            "projected": 275.0,
+            "future": 275.0,
+            "notes": "None"
         },
-
-        "Collection Fees"  : {
-            "budget" : 600.00,
-            "actual" : 820.00,
-            "projected" : 1093.33,
-            "future" : 1000.00,
-            "notes" : "None"
+        {
+            "type": "Collection Fees",
+            "budget": 600.0,
+            "actual": 820.0,
+            "projected": 1093.33,
+            "future": 1000.0,
+            "notes": "None"
         }
-    },
-
-    "MAINTENANCE" : {
-        "Pool Cleaning" : {
-            "budget" : 9900.00,
-            "actual" : 6631.00,
-            "projected" : 8841.33,
-            "future" : 9900.00,
-            "notes" : "None"
+    ],
+    "MAINTENANCE": [
+        {
+            "type": "Pool Cleaning",
+            "budget": 9900.0,
+            "actual": 6631.0,
+            "projected": 8841.33,
+            "future": 9900.0,
+            "notes": "None"
         },
-
-        "Pool Maintenance" : {
-            "budget" : 0.00,
-            "actual" : 711.75,
-            "projected" : 949.00,
-            "future" : 750.00,
-            "notes" : "None"
+        {
+            "type": "Pool Maintenance",
+            "budget": 0.0,
+            "actual": 711.75,
+            "projected": 949.0,
+            "future": 750.0,
+            "notes": "None"
         },
-
-        "Cabana Cleaning" : {
-            "budget" : 3000.00,
-            "actual" : 2100.00,
-            "projected" : 2800.00,
-            "future" : 3000.00,
-            "notes" : "None"
+        {
+            "type": "Cabana Cleaning",
+            "budget": 3000.0,
+            "actual": 2100.0,
+            "projected": 2800.0,
+            "future": 3000.0,
+            "notes": "None"
         },
-
-        "Maintenance Roof Drains" : {
-            "budget" : 25000.00,
-            "actual" : 39240.00,
-            "projected" : 52320.00,
-            "future" : 37500.00,
-            "notes" : "Roof repairs included"
+        {
+            "type": "Maintenance Roof Drains",
+            "budget": 25000.0,
+            "actual": 39240.0,
+            "projected": 52320.0,
+            "future": 37500.0,
+            "notes": "Roof repairs included"
         },
-
-        "Pressure Washing & Gutters" : {
-            "budget" : 15000.00,
-            "actual" : 3500.00,
-            "projected" : 4666.67,
-            "future" : 5000.00,
-            "notes" : "None"
+        {
+            "type": "Pressure Washing & Gutters",
+            "budget": 15000.0,
+            "actual": 3500.0,
+            "projected": 4666.67,
+            "future": 5000.0,
+            "notes": "None"
         },
-
-        "Mulch" : {
-            "budget" : 7500.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 7500.00,
-            "notes" : "None"
+        {
+            "type": "Mulch",
+            "budget": 7500.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 7500.0,
+            "notes": "None"
         },
-
-        "Rodent Control" : {
-            "budget" : 4000.00,
-            "actual" : 2260.00,
-            "projected" : 3013.33,
-            "future" : 4000.00,
-            "notes" : "None"
+        {
+            "type": "Rodent Control",
+            "budget": 4000.0,
+            "actual": 2260.0,
+            "projected": 3013.33,
+            "future": 4000.0,
+            "notes": "None"
         },
-
-        "Building Maintenance" : {
-            "budget" : 5000.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 5000.00,
-            "notes" : "None"
+        {
+            "type": "Building Maintenance",
+            "budget": 5000.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 5000.0,
+            "notes": "None"
         },
-
-        "Extermination" : {
-            "budget" : 500.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 500.00,
-            "notes" : "3% increase"
+        {
+            "type": "Extermination",
+            "budget": 500.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 500.0,
+            "notes": "3% increase"
         },
-
-        "Lawn Maintenance" : {
-            "budget" : 40000.00,
-            "actual" : 28025.95,
-            "projected" : 37367.93,
-            "future" : 40000.00,
-            "notes" : "None"
+        {
+            "type": "Lawn Maintenance",
+            "budget": 40000.0,
+            "actual": 28025.95,
+            "projected": 37367.93,
+            "future": 40000.0,
+            "notes": "None"
         },
-
-        "Irrigation Maintenance" : {
-            "budget" : 3500.00,
-            "actual" : 6786.21,
-            "projected" : 9048.28,
-            "future" : 7500.00,
-            "notes" : "None"
+        {
+            "type": "Irrigation Maintenance",
+            "budget": 3500.0,
+            "actual": 6786.21,
+            "projected": 9048.28,
+            "future": 7500.0,
+            "notes": "None"
         },
-
-        "Pest Control Termite" : {
-            "budget" : 500.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 500.00,
-            "notes" : "None"
+        {
+            "type": "Pest Control Termite",
+            "budget": 500.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 500.0,
+            "notes": "None"
         },
-
-        "Tree Maintenance" : {
-            "budget" : 20000.00,
-            "actual" : 17240.00,
-            "projected" : 22986.67,
-            "future" : 20000.00,
-            "notes" : "None"
+        {
+            "type": "Tree Maintenance",
+            "budget": 20000.0,
+            "actual": 17240.0,
+            "projected": 22986.67,
+            "future": 20000.0,
+            "notes": "None"
         }
-    },
-
-    "UTILITIES" :{
-        "Internet" : {
-            "budget" : 600.00,
-            "actual" : 646.58,
-            "projected" : 862.11,
-            "future" : 870.00,
-            "notes" : "Frontier 72.50/month"
+    ],
+    "UTILITIES": [
+        {
+            "type": "Internet",
+            "budget": 600.0,
+            "actual": 646.58,
+            "projected": 862.11,
+            "future": 870.0,
+            "notes": "Frontier 72.50/month"
         },
-
-        "Electricity" : {
-            "budget" : 13500.00,
-            "actual" : 12718.23,
-            "projected" : 16957.64,
-            "future" : 16440.00,
-            "notes" : "Avg costs ~ $1370/month"
+        {
+            "type": "Electricity",
+            "budget": 13500.0,
+            "actual": 12718.23,
+            "projected": 16957.64,
+            "future": 16440.0,
+            "notes": "Avg costs ~ $1370/month"
         },
-
-        "Water & Sewer" : {
-            "budget" : 2500.00,
-            "actual" : 3912.84,
-            "projected" : 5217.12,
-            "future" : 3600.00,
-            "notes" : "Avg costs ~ $200-300/month"
-        },
-    },
-    
-    "RESERVES" : {
-        "Painting" : {
-            "budget" : 27581.36,
-            "actual" : 20686.05,
-            "projected" : 27581.40,
-            "future" : 29295.35,
-            "notes" : "None"
-        },
-
-        "Roofing" : {
-            "budget" : 9517.75,
-            "actual" : 26019.72,
-            "projected" : 34692.96,
-            "future" : 9987.14,
-            "notes" : "None"
-        },
-
-        "Roofing Shingle" : {
-            "budget" : 34692.99,
-            "actual" : 7138.35,
-            "projected" : 9517.80,
-            "future" : 36087.39,
-            "notes" : "None"
-        },
-
-        "Pavement" : {
-            "budget" : 12509.04,
-            "actual" : 9381.78,
-            "projected" : 12509.04,
-            "future" : 14014.03,
-            "notes" : "None"
-        },
-
-        "Cabana" : {
-            "budget" : 0.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 0.00,
-            "notes" : "None"
-        },
-
-        "Termite Reserve - Drywood" : {
-            "budget" : 10000.00,
-            "actual" : 7499.97,
-            "projected" : 9999.96,
-            "future" : 10000.00,
-            "notes" : "See note on Haskell"
-        },
-
-        "Building Reserve" : {
-            "budget" : 0.00,
-            "actual" : 0.00,
-            "projected" : 0.00,
-            "future" : 0.00,
-            "notes" : "None"
-        },
-
-        "Pool & Deck" : {
-            "budget" : 4466.69,
-            "actual" : 3349.98,
-            "projected" : 4466.64,
-            "future" : 4596.45,
-            "notes" : "None"
+        {
+            "type": "Water & Sewer",
+            "budget": 2500.0,
+            "actual": 3912.84,
+            "projected": 5217.12,
+            "future": 3600.0,
+            "notes": "Avg costs ~ $200-300/month"
         }
-    },
-
-    "TOTALS" : {
-        "Total Operating" : {
-            "budget" : 334090.00,
-            "actual" : 263457.11,
-            "projected" : 349267.81,
-            "future" : 410754.40,
-            "notes" : "None"
+    ],
+    "RESERVES": [
+        {
+            "type": "Painting",
+            "budget": 27581.36,
+            "actual": 20686.05,
+            "projected": 27581.4,
+            "future": 29295.35,
+            "notes": "None"
         },
-
-        "Total Reserves" : {
-            "budget" : 98767.83,
-            "actual" : 74075.85,
-            "projected" : 98767.80,
-            "future" : 103980.36,
-            "notes" : "None"
+        {
+            "type": "Roofing",
+            "budget": 9517.75,
+            "actual": 26019.72,
+            "projected": 34692.96,
+            "future": 9987.14,
+            "notes": "None"
         },
-
-        "Total Expenses" : {
-            "budget" : 432857.83,
-            "actual" : 337532.96,
-            "projected" : 448035.61,
-            "future" : 514734.76,
-            "notes" : "None"
+        {
+            "type": "Roofing Shingle",
+            "budget": 34692.99,
+            "actual": 7138.35,
+            "projected": 9517.8,
+            "future": 36087.39,
+            "notes": "None"
+        },
+        {
+            "type": "Pavement",
+            "budget": 12509.04,
+            "actual": 9381.78,
+            "projected": 12509.04,
+            "future": 14014.03,
+            "notes": "None"
+        },
+        {
+            "type": "Cabana",
+            "budget": 0.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 0.0,
+            "notes": "None"
+        },
+        {
+            "type": "Termite Reserve - Drywood",
+            "budget": 10000.0,
+            "actual": 7499.97,
+            "projected": 9999.96,
+            "future": 10000.0,
+            "notes": "See note on Haskell"
+        },
+        {
+            "type": "Building Reserve",
+            "budget": 0.0,
+            "actual": 0.0,
+            "projected": 0.0,
+            "future": 0.0,
+            "notes": "None"
+        },
+        {
+            "type": "Pool & Deck",
+            "budget": 4466.69,
+            "actual": 3349.98,
+            "projected": 4466.64,
+            "future": 4596.45,
+            "notes": "None"
         }
-    },
-
-    "UNITS" : {
-        "A" : {
-            "units" : 16,
-            "ppu" : 0.0194,
-            "percentage" : 0.3104,
-            "cpu" : 832.15,
-            "total" : 13314.40
+    ],
+    "TOTALS": [
+        {
+            "type": "Total Operating",
+            "budget": 334090.0,
+            "actual": 263457.11,
+            "projected": 349267.81,
+            "future": 410754.4,
+            "notes": "None"
         },
-
-        "B" : {
-            "units" : 14,
-            "ppu" : 0.0208,
-            "percentage" : 0.2912,
-            "cpu" : 892.21,
-            "total" : 12490.94
-        },  
-
-        "C" : {
-            "units" : 13,
-            "ppu" : 0.0199,
-            "percentage" : 0.2587,
-            "cpu" : 853.60,
-            "total" : 11096.80
+        {
+            "type": "Total Reserves",
+            "budget": 98767.83,
+            "actual": 74075.85,
+            "projected": 98767.8,
+            "future": 103980.36,
+            "notes": "None"
         },
-
-        "D" : {
-            "units" : 8,
-            "ppu" : 0.0175,
-            "percentage" : 0.14,
-            "cpu" : 750.66,
-            "total" :  6005.28
-        },
-
-        "Average" : {
-            "units" : 51,
-            "ppu" : 0.0196,
-            "percentage" : 1.0003,
-            "cpu" : 841.32,
-            "total" : 42907.42
+        {
+            "type": "Total Expenses",
+            "budget": 432857.83,
+            "actual": 337532.96,
+            "projected": 448035.61,
+            "future": 514734.76,
+            "notes": "None"
         }
-    }
+    ],
+    "UNITS": [
+        {
+            "type": "A",
+            "units": 16,
+            "ppu": 0.0194,
+            "percentage": 0.3104,
+            "cpu": 832.15,
+            "total": 13314.4
+        },
+        {
+            "type": "B",
+            "units": 14,
+            "ppu": 0.0208,
+            "percentage": 0.2912,
+            "cpu": 892.21,
+            "total": 12490.94
+        },
+        {
+            "type": "C",
+            "units": 13,
+            "ppu": 0.0199,
+            "percentage": 0.2587,
+            "cpu": 853.6,
+            "total": 11096.8
+        },
+        {
+            "type": "D",
+            "units": 8,
+            "ppu": 0.0175,
+            "percentage": 0.14,
+            "cpu": 750.66,
+            "total": 6005.28
+        },
+        {
+            "type": "Average",
+            "units": 51,
+            "ppu": 0.0196,
+            "percentage": 1.0003,
+            "cpu": 841.32,
+            "total": 42907.42
+        }
+    ]
 }

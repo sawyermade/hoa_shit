@@ -1,0 +1,9 @@
+type,budget,actual,projected,future,notes
+Painting,27581.36,20686.05,27581.4,29295.35,None
+Roofing,9517.75,26019.72,34692.96,9987.14,None
+Roofing Shingle,34692.99,7138.35,9517.8,36087.39,None
+Pavement,12509.04,9381.78,12509.04,14014.03,None
+Cabana,0.0,0.0,0.0,0.0,None
+Termite Reserve - Drywood,10000.0,7499.97,9999.96,10000.0,See note on Haskell
+Building Reserve,0.0,0.0,0.0,0.0,None
+Pool & Deck,4466.69,3349.98,4466.64,4596.45,None

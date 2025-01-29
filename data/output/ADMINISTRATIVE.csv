@@ -1,0 +1,14 @@
+type,budget,actual,projected,future,notes
+Management Fees,7500.0,5625.0,7500.0,9000.0,New Mgmt Fee
+Application Fee,0.0,300.0,350.0,300.0,None
+Annual Financial Reporting,4525.0,5600.0,5600.0,5600.0,None
+Legal Fees,1000.0,1214.02,1618.69,1500.0,None
+Bank Charges,50.0,4.17,5.56,50.0,None
+Postage,200.0,178.3,237.73,200.0,None
+Insurance,142715.0,106950.06,142600.08,197864.4,Expected 15% increase
+Corporate Filing,275.0,61.25,81.76,275.0,Corp fee and state fees
+Office Supplies,500.0,223.92,298.56,500.0,None
+Website,1200.0,999.0,1332.0,1200.0,None
+Printing & Reproduction,2000.0,1172.29,1563.32,2000.0,None
+Professional/Inspction Fees,145.0,275.0,275.0,275.0,None
+Collection Fees,600.0,820.0,1093.33,1000.0,None
